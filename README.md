@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="250" alt="Coding GIF" />
 </div>
 
 ---
@@ -15,7 +15,6 @@
 - 🎓 Pursuing my **B.Tech at MBCCET Peermade**.  
 - 🌱 I’m learning and expanding my expertise in **AI, React Native, and TypeScript**.  
 - 💡 I’m passionate about solving problems through innovative technology and building impactful solutions.  
-- 📫 How to reach me: **[ashwinjohn@example.com](mailto:ashwinjohn@example.com)**
 
 ---
 
@@ -40,14 +39,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashwinjohn&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinjohn&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinjohn&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div> -->
 
 ---
 
 ### 🌐 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/ashwinjohn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
