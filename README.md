@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **FitInsight**, an AI-driven fitness app.  
 - 🎓 Pursuing my **B.Tech at MBCCET Peermade**.  
-- 🌱 I’m learning and expanding my expertise in **AI, React Native, and TypeScript**.  
+- 🌱 I’m learning and expanding my expertise in **AI, React Native, Flutter and TypeScript**.  
 - 💡 I’m passionate about solving problems through innovative technology and building impactful solutions.  
 
 ---
