@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin John</h1>
-<h3 align="center">FullStack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">FullStack Developer | App Developer | AI Enthusiast | Problem Solver</h3>
 
 ---
 
